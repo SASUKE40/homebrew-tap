@@ -1,6 +1,6 @@
 cask "lexa" do
-  version "1.0.3"
-  sha256 "c91bfd793a8283c8ba9316e1449d0391440388507e851689c3ecde31bcb60e34"
+  version "1.0.4"
+  sha256 "80faee38c7591a9208eb246f3ca6bd28b70d54cc46f68601681d251798443a20"
 
   url "https://github.com/SASUKE40/Lexa/releases/download/v#{version}/Lexa-#{version}.zip"
   name "Lexa"
